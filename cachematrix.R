@@ -7,7 +7,7 @@
 # makeCacheMatrix takes as arguments:
 # self - invertible matrix that should be used when calculating inverse
 #
-# makeCacheMatrix retus a list with the following properties:
+# makeCacheMatrix returns a list with the following properties:
 # set - update self with a new invertible matrix and reset the inverse value
 # get - return the self matrix
 # setInverse - update the value of the inverse
